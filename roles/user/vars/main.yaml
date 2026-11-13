@@ -1,3 +1,3 @@
-# #SPECIFIC_VAR: specific-value
+# SPECIFIC_VAR: specific-value
 # MONGODB_HOST: mongodb.reddy25.shop
 # REDIS_HOST: redis.reddy25.shop
